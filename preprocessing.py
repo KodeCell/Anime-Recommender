@@ -25,7 +25,6 @@ def preprocessed(anime):
         return data1
     data['tags'] = data['tags'].apply(clean)
     data['name'] = data['name'].apply(clean)
-
     return data
 
 
