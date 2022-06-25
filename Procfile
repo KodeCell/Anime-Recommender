@@ -1,2 +1,2 @@
-web: sh setup.sh && streamlit run main.pyher
+web: sh setup.sh && streamlit run main.py
 
